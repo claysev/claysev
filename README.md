@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é Clayton!</h1>
+<h1>Olá pessoal, meu nome é Clayton!</h1>
 <div>
   <a href="https://github.com/claysev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claysev&show_icons=true&theme=midnight-purple">
